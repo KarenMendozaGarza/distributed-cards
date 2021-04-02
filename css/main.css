@@ -1,0 +1,37 @@
+html {
+  box-sizing: border-box;
+  line-height: 1.5;
+  background-color: #f5f2f0;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+/* font-family: 'Denk One', sans-serif; */
+
+body {
+
+}
+
+h1, h2 {
+  font-family: "Denk One", sans-serif;
+  color: #623b0c;
+}
+
+p {
+  font-family: "Georgia", serif;
+}
+
+ol li {
+  list-style-type: none;
+}
+
+a {
+  font-family: "Georgia", serif;
+  color: #fff;
+  background-color: #623b0c;
+  text-decoration: none;
+  padding: .75em;
+  border-radius: 8px;
+}
